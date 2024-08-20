@@ -1,5 +1,4 @@
-# Aula 2 - Tipos Abstratos de Dados
-#### Aula ministrada no dia 08/08/2024
+# Aula 2 - Tipos Abstratos de Dados - Parte 1
 
 ## Tipo de Dado
 - Método para interpretar o conteúdo da memória do computador. Define a quantidade de bytes a serem utilizados para representar um valor (dado) e como interpretar a sequência de bits correspondente a esse valor.

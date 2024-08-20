@@ -30,4 +30,6 @@ int main(void){
             printf("dentro\n");
         }
     }
+    ponto_apagar(p);
+    circulo_apagar(p);
 }
